@@ -1,5 +1,9 @@
 # CPSを物性研で使うサンプル
 
+## 概要
+
+手抜き馬鹿パラスケジューラ「Command Processor Scheduler (CPS)」を物性研で利用するためのサンプル。CPSのリポジトリは[github.com/kaityo256/cps](https://github.com/kaityo256/cps)
+
 ## 使い方
 
 ### 準備
@@ -39,7 +43,7 @@ python3 makeseed.py
 
 ### ジョブの投入
 
-実行する多数は`task.sh`に書いてある。
+実行するタスクは`task.sh`に書いてある。
 
 ```sh
 # tasks
