@@ -4,5 +4,5 @@
 #SBATCH -N 1
 #SBATCH -n 11
 
-srun ./cps/cps ./tasks.sh
+srun ./cps/cps task.sh
 

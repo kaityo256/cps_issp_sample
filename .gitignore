@@ -1,1 +1,3 @@
 *.dat
+slurm*.out
+cps.log
